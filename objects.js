@@ -1,4 +1,4 @@
-var playlist = {artist: "song"};
+var playlist = {The_Shins: "Australia"};
 function updatePlaylist(playlist,artist,song){
   playlist[artist] = song
   return playlist
